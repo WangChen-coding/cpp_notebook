@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Base.cpp
+  Base_1.cpp
+  Derived_Virtual.cpp
+  Derived_Virtual_Inherit1.cpp
+  Derived_Virtual_Inherit2.cpp
+  Test.cpp
+  Derived.cpp
+  Derived_Mutlip_Inherit.cpp
+  Derived_Overrite.cpp
+  正在生成代码...
+  C++ObjectModel.vcxproj -> D:\download\CppObjectModel\home\aistudio\CppObjectModel\C++ObjectModel\Debug\C++ObjectModel.exe
